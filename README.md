@@ -29,22 +29,6 @@ Software development for Experimental Systems - building custom tools for resear
 
 ---
 
-## Data-driven sales recommendations 
-Objective: Create a **custom metric** to evaluate the **sales strategy performance**. 
-- **Data cleaning**
-- **Statistical analysis**
-- **Data visualization**
-- **Modeled outcomes**
-- Performed in **R**
-- **Jupyter Lab**
-- Delivered actionable **business recommendations.**
->:link: [click here to view project](https://github.com/JulianKempenaers/Data-Driven-Sales-Recommendations/blob/main/README.md)
-
-### Non-technical summary:
-Created a custom measurement to evaluate how well a company’s sales strategies work by cleaning and analyzing sales data. This helped the business make better decisions to improve sales performance.
-
---- 
-
 ## Sparse Motion Capture
 Objective: Develop a **real-time video capture tool** in **Python** for **Raspberry Pi** using **Picam2**, which stores only moving pixels in **sparse matrix format** (BSR) to drastically reduce data file sizes of long-duration footage with static backgrounds.
 - Developed in **Python**
@@ -97,6 +81,23 @@ Objective: Optimisation of tag detection through netting using data analysis and
 Studied how factors like net height and camera settings affect the ability to detect tracking tags, to recommend the best setup for accurate data collection during experiments.
 
 ---
+
+## Data-driven sales recommendations 
+Objective: Create a **custom metric** to evaluate the **sales strategy performance**. 
+- **Data cleaning**
+- **Statistical analysis**
+- **Data visualization**
+- **Modeled outcomes**
+- Performed in **R**
+- **Jupyter Lab**
+- Delivered actionable **business recommendations.**
+>:link: [click here to view project](https://github.com/JulianKempenaers/Data-Driven-Sales-Recommendations/blob/main/README.md)
+
+### Non-technical summary:
+Created a custom measurement to evaluate how well a company’s sales strategies work by cleaning and analyzing sales data. This helped the business make better decisions to improve sales performance.
+
+--- 
+
 
 ## Post-recording STag Detector
 Objective: Develop a tool that performs **post-processing** detection and tracking of pecialized of QR codes. Ideal for **post-recording motion tracking** experimental setups.
