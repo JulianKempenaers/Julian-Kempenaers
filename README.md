@@ -20,7 +20,7 @@ I'm a Data Analyst focused on automation and data solutions. I build custom tool
 ### :hammer_and_wrench: Programming and tool development:
 
 Software development for Experimental Systems - building custom tools for research and experimental setups, such as:
-- Automated Experimental Reporting: Generating real-time visual summaries of experimental results (E-phys matlab)
+- Automated Experimental Reporting: Generating real-time visual summaries of experimental data.
 - Efficient data storage techniques: developing custom data compression and storage solutions for repetitive video files
 
 ---
