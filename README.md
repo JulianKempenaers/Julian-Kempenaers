@@ -17,11 +17,11 @@ I'm a Data Analyst focused on automation and data solutions. I build custom tool
 - Data Preprocessing - cleaning, transforming and preparing data for analysis
 - Database Querying (SQL) - writing queries for optimal data extraction
 
-Project examples:
-
-[`Data-driven Sales Recommendations`](#data-driven-sales-recommendations) [`Business analaysis with SQL queries`](#business-analaysis-with-sql-queries) 
-
-[`Statistical Analysis of Tag Scanability`](#statistical-analysis-of-tag-scanability-under-obstructed-conditions) [`Instant electrophysiology Data analysis & visualisation tool`](#instant-electrophysiology-data-analysis--visualisation-tool)
+>Project examples:<br>
+> [`Data-driven Sales Recommendations`](#data-driven-sales-recommendations)<br> 
+> [`Business analaysis with SQL queries`](#business-analaysis-with-sql-queries) <br>
+> [`Statistical Analysis of Tag Scanability`](#statistical-analysis-of-tag-scanability-under-obstructed-conditions) <br>
+> [`Instant electrophysiology Data analysis & visualisation tool`](#instant-electrophysiology-data-analysis--visualisation-tool) <br>
 
 
 ### :hammer_and_wrench: Programming and tool development:
@@ -30,11 +30,12 @@ Software development for Experimental Systems - building custom tools for resear
 - Automated Experimental Reporting: Generating real-time visual summaries of experimental data.
 - Efficient data storage techniques: developing custom data compression and storage solutions for repetitive video files
 
-Project examples:
-
-[`Sparse Motion Capture`](#sparse-motion-capture) [`Real-time STag detector`](#real-time-stag-detector) [`Advanced Multi-Modal Animal tracking software`](#advanced-multi-modal-animal-tracking-software) 
-
-[`Raspberry Pi Cluster Synchronisation & Control`](#raspberry-pi-cluster-synchronisation--control) [`Post-recording STat Detector`](#post-recording-stag-detector)
+>Project examples:<br>
+>[`Real-time STag detector`](#real-time-stag-detector)<br>
+>[`Sparse Motion Capture`](#sparse-motion-capture)<br>
+>[`Advanced Multi-Modal Animal tracking software`](#advanced-multi-modal-animal-tracking-software)<br>
+>[`Raspberry Pi Cluster Synchronisation & Control`](#raspberry-pi-cluster-synchronisation--control)<br>
+>[`Post-recording STat Detector`](#post-recording-stag-detector)<br>
 
 ---
 
