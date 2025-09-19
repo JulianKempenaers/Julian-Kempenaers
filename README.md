@@ -5,15 +5,9 @@ Hello, I'm Julian,
 I'm a Data Analyst focused on automation and data solutions. I build custom tools and deliver data-driven solutions for research labs and businesses. I focus on automating complex workflows, enabling real-time experimental data analysis, and creating scalable tracking and monitoring systems. I help turn raw data into clear insights that improve both experiments and business decisions. 
 
 # My areas of expertise:
-## :computer: Languages & Tools
-- Python
-- R
-- SQL
-- MATLAB
-- Tableau
-- GraphPad Prism
 
----
+`Python` `R` `SQL` `MATLAB` `Tableau` `GraphPad Prism`
+
 
 ## :bar_chart: Data Analysis:
 - Data Visualisation - creating clear and informative graphics from data
