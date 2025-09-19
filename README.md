@@ -44,8 +44,6 @@ Software development for Experimental Systems - building custom tools for resear
 
 
 # :open_file_folder: Projects
-<details>
-<summary>Click to expand</summary>
 
 <details>
 <summary> Sparse Motion Capture </summary>  
@@ -87,6 +85,9 @@ Created a custom measurement to evaluate how well a company’s sales strategies
 
 </details>
 
+<details>
+<summary> Real-time STag Detector </summary>  
+
 ## Real-time STag Detector
 Objective: Develop a tool that performs **real-time detection and tracking** of specialized QR codes, with a **live video stream overlay**. Ideal for **motion tracking** in experimental setups
 - Developed in **python**
@@ -99,6 +100,11 @@ Objective: Develop a tool that performs **real-time detection and tracking** of 
 Developed software that quickly spots special QR-like codes on animals during experiments, tracking their movement live to help scientists understand behavior in real time.
 
 ---
+
+</details>
+
+<details>
+<summary> Business analysis with SQL queries </summary>  
 
 ## Business analaysis with SQL queries
 Objective: Analyzed and cleaned a grocery store product dataset using SQL to support price range optimization by identifying sales and pricing trends across categories and brands.
@@ -116,6 +122,11 @@ Analyzed grocery store product data to find trends in sales and prices, helping 
 
 ---
 
+</details>
+
+<details>
+<summary> Statistical Analysis of Tag Scanability under obstructed conditions</summary>
+
 ## Statistical Analysis of Tag Scanability under obstructed conditions
 Objective: Optimisation of tag detection through netting using data analysis and statistical modeling. 
 - **Python**: pandas, statistical testing (Kruskal-Wallis, Mann-Whitney U)
@@ -126,6 +137,11 @@ Objective: Optimisation of tag detection through netting using data analysis and
 Studied how factors like net height and camera settings affect the ability to detect tracking tags, to recommend the best setup for accurate data collection during experiments.
 
 ---
+
+</details>
+
+<details>
+<summary> Post-recording STag Detector </summary>
 
 ## Post-recording STag Detector
 Objective: Develop a tool that performs **post-processing** detection and tracking of pecialized of QR codes. Ideal for **post-recording motion tracking** experimental setups.
@@ -139,6 +155,8 @@ Objective: Develop a tool that performs **post-processing** detection and tracki
 Created a tool to find and track special QR-like codes in recorded videos after the experiment, making it easier to analyze animal movement without needing everything in real time.
 
 ---
+
+</details>
 
 # Currently working on:
 
@@ -159,7 +177,6 @@ Designing a networked system to coordinate 24 Raspberry Pis for simultaneous scr
 - Implements **time synchronisation** using a Synology NAS as an **NTP server** to keep all devices' clocks aligned without internet access.
 - **Tools & technologies**: Bash scripting, Python, MQTT protocol, Distributed system design.
 
-</details>
 
 ---
 Please feel free to get in touch at:
