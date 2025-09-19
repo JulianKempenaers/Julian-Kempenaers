@@ -41,10 +41,15 @@ Software development for Experimental Systems - building custom tools for resear
 
 ---
 
+
+
 # :open_file_folder: Projects
+<details>
+<summary>Click to expand</summary>
 
----
-
+<details>
+<summary> Sparse Motion Capture </summary>  
+  
 ## Sparse Motion Capture
 Objective: Develop a **real-time video capture tool** in **Python** for **Raspberry Pi** using **Picam2**, which stores only moving pixels in **sparse matrix format** (BSR) to drastically reduce data file sizes of long-duration footage with static backgrounds.
 - Developed in **Python**
@@ -54,9 +59,14 @@ Objective: Develop a **real-time video capture tool** in **Python** for **Raspbe
 - Included a utility to convert compressed data (.npz) back to video (.mp4) format for playback. 
 >:link: [click here to view project](https://github.com/JulianKempenaers/Sparse-Motion-Capture/blob/main/README.md)
 ### Non-technical summary
-Built a smart video recording system that only saves parts of the video where there’s movement. This reduces storage needs and helps researchers focus on important actions during experiments.
+Built a smart video recording system that only saves parts of the video where there’s movement. This reduces storage needs and helps researchers focus on important actions during experiments. |
 
 ---
+
+</details>
+
+<details>
+<summary> Data-driven sales recommendations </summary>  
 
 ## Data-driven sales recommendations 
 Objective: Create a **custom metric** to evaluate the **sales strategy performance**.
@@ -74,6 +84,8 @@ Objective: Create a **custom metric** to evaluate the **sales strategy performan
 Created a custom measurement to evaluate how well a company’s sales strategies work by cleaning and analyzing sales data. This helped the business make better decisions to improve sales performance.
 
 --- 
+
+</details>
 
 ## Real-time STag Detector
 Objective: Develop a tool that performs **real-time detection and tracking** of specialized QR codes, with a **live video stream overlay**. Ideal for **motion tracking** in experimental setups
@@ -147,9 +159,9 @@ Designing a networked system to coordinate 24 Raspberry Pis for simultaneous scr
 - Implements **time synchronisation** using a Synology NAS as an **NTP server** to keep all devices' clocks aligned without internet access.
 - **Tools & technologies**: Bash scripting, Python, MQTT protocol, Distributed system design.
 
+</details>
+
 ---
-
-
 Please feel free to get in touch at:
 
 - juliankempenaers@gmail.com
