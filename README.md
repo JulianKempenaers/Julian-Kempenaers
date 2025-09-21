@@ -18,7 +18,7 @@ I'm a Data Analyst focused on automation and data solutions. I build custom tool
 >:open_file_folder: Project examples:<br>
 
 <details>
-<summary> Data-driven sales recommendations </summary>  
+<summary> Data-driven sales recommendations (R) </summary>  
 
 ### Data-driven sales recommendations 
 Objective: Create a **custom metric** to evaluate the **sales strategy performance**.
@@ -40,7 +40,7 @@ Created a custom measurement to evaluate how well a company’s sales strategies
 </details>
 
 <details>
-<summary> Business analysis with SQL queries </summary>  
+<summary> Business analysis with SQL queries (SQL) </summary>  
 
 ### Business analaysis with SQL queries
 Objective: Analyzed and cleaned a grocery store product dataset using SQL to support price range optimization by identifying sales and pricing trends across categories and brands.
@@ -61,7 +61,7 @@ Analyzed grocery store product data to find trends in sales and prices, helping 
 </details>
 
 <details>
-<summary> Statistical Analysis of Tag Scanability under obstructed conditions</summary>
+<summary> Statistical Analysis of Tag Scanability under obstructed conditions (Python) </summary>
 
 ### Statistical Analysis of Tag Scanability under obstructed conditions
 Objective: Optimisation of tag detection through netting using data analysis and statistical modeling. 
@@ -77,7 +77,7 @@ Studied how factors like net height and camera settings affect the ability to de
 </details>
 
 <details>
-<summary> Instant electrophysiology Data analysis & visualisation tool </summary>
+<summary> Instant electrophysiology Data analysis & visualisation tool (MATLAB) </summary>
   
 ### Instant electrophysiology Data analysis & visualisation tool 
 Currently developing an automated, real-time data processing tool for electrophysiological experiments, enabling **immediate insight** into neuron activity post-stimulus presentation
@@ -96,7 +96,7 @@ Software development for Experimental Systems - building custom tools for resear
 
 >:open_file_folder: Project examples:<br>
 <details>
-<summary> Real-time STag Detector </summary>  
+<summary> Real-time STag Detector (Python, shell) </summary>  
 
 ### Real-time STag Detector
 Objective: Develop a tool that performs **real-time detection and tracking** of specialized QR codes, with a **live video stream overlay**. Ideal for **motion tracking** in experimental setups
@@ -114,7 +114,7 @@ Developed software that quickly spots special QR-like codes on animals during ex
 </details>
 
 <details>
-<summary> Sparse Motion Capture </summary>  
+<summary> Sparse Motion Capture (Python) </summary>  
   
 ### Sparse Motion Capture
 Objective: Develop a **real-time video capture tool** in **Python** for **Raspberry Pi** using **Picam2**, which stores only moving pixels in **sparse matrix format** (BSR) to drastically reduce data file sizes of long-duration footage with static backgrounds.
@@ -133,7 +133,7 @@ Built a smart video recording system that only saves parts of the video where th
 
 
 <details>
-<summary> Advanced Multi-modal Animal tracking software </summary>
+<summary> Advanced Multi-modal Animal tracking software (Python) </summary>
   
 ### Advanced Multi-Modal Animal tracking software
 - Currently developing a **hybrid tracking system** that uses **tag detection as reliable anchors** (~10-50% detection rate), combined with **motion-based interpolation** and **animal shape detection** to maintain continuous tracking even when tags are temporary occluded or undetected.
@@ -146,7 +146,7 @@ Built a smart video recording system that only saves parts of the video where th
 </details>
 
 <details>
-<summary> Raspberry Pi Cluster Synchronisation & Control </summary>
+<summary> Raspberry Pi Cluster Synchronisation & Control (Python, Linux, shell) </summary>
   
 ### Raspberry Pi Cluster Synchronisation & Control
 Currently designing a networked system to coordinate 24 Raspberry Pis for simultaneous script execution, enabling precise multi-device motion capture experiments
@@ -159,7 +159,7 @@ Currently designing a networked system to coordinate 24 Raspberry Pis for simult
 </details>
 
 <details>
-<summary> Post-recording STag Detector </summary>
+<summary> Post-recording STag Detector (Python) </summary>
 
 ### Post-recording STag Detector
 Objective: Develop a tool that performs **post-processing** detection and tracking of pecialized of QR codes. Ideal for **post-recording motion tracking** experimental setups.
