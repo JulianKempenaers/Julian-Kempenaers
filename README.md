@@ -141,6 +141,11 @@ Built a smart video recording system that only saves parts of the video where th
 - Integrates 12 high-resolution video tiles into a single unified large-scale field of view, enabling comprehensive spatial coverage of animal movement
 - Built in **Python** with multiprocessing efficient processing and scalable performance.
 
+<br> <br> <br>
+
+![arena_figure](https://github.com/user-attachments/assets/faa7eb22-2728-40f2-a549-6f5da8569bda)
+
+
 ---
 
 </details>
