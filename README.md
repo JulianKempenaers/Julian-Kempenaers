@@ -88,7 +88,7 @@ Currently developing an automated, real-time data processing tool for electrophy
 
 ---
 
-## :hammer_and_wrench: Programming and tool development:
+## :hammer_and_wrench: Developing Innovative Tools:
 
 Software development for Experimental Systems - building custom tools for research and experimental setups, such as:
 - Automated Experimental Reporting: Generating real-time visual summaries of experimental data.
